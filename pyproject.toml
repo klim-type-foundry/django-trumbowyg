@@ -8,7 +8,6 @@ version = "2.0.1"
 authors = [
   { name="sandino", email="vdjangofan@gmail.com" },
 ]
-license = "The MIT License (MIT)"
 description = "Trumbowyg (WYSIWYG editor) integration app for Django admin."
 readme = "README.md"
 classifiers = [
